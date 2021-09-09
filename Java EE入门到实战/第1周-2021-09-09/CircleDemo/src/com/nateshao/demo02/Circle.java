@@ -1,15 +1,4 @@
-## IDEA破解
-
-![](https://gitee.com/nateshao/images/raw/master/img/20210909201701.png)
-
-
-
-## 任务2：Java类与对象
-
-![](https://gitee.com/nateshao/images/raw/master/img/20210909210757.png)
-
-```java
-package com.nateshao.demo01;
+package com.nateshao.demo02;
 
 /**
  * @date Created by 邵桐杰 on 2021/9/9 20:34
@@ -32,47 +21,3 @@ public class Circle {
         System. out.println("半径为2的圆,面积为:" + c2.area());
     }
 }
-```
-
-## 任务3：封装与继承
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
