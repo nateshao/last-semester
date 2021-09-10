@@ -16,18 +16,30 @@ public class Master {
     private Dog dog;
 
     public static void main(String[] args) {
+        Fish fish = new Fish();
         Bone bone = new Bone();
         Dog dog = new Dog();
         Master master = new Master();
         master.feed("苏大爷", bone, dog);
 
+        Cat cat = new Cat();
+        cat.eat("fish");
 
+        dog = new Dog();
+        dog.eat("xiaobai");
+
+        master.feed("张大爷", fish, cat);
+        cat.eat("xiaohua");
+        dog.eat("bone");
 
     }
 
     public void feed(String name, Food food, Animal animal) {
-        if (food instanceof Bone)
+        if (food instanceof Bone) {
             System.out.println(name + "投喂" + food.feed() + animal.feed());
+        } else {
+            System.out.println(name + "投喂" + food.feed() + animal.feed());
+        }
     }
 }
 

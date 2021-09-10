@@ -16,7 +16,7 @@ public class Cat extends Animal{
         if (s == FOOD) {
             System.out.println("小白爱吃fish");
         }else {
-            System.out.println("小黑不喜欢吃bone");
+            System.out.println("小花不喜欢吃bone");
         }
     }
 

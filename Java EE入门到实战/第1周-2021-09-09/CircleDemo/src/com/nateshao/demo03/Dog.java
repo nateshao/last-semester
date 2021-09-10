@@ -19,7 +19,6 @@ public class Dog extends Animal {
             return "小白";
         }
         return "小黑";
-
     }
 
     private final String FOOD = "bone";
@@ -28,7 +27,7 @@ public class Dog extends Animal {
         if (s == FOOD) {
             System.out.println("大黑爱吃bone");
         } else {
-            System.out.println("小花不喜欢吃fish");
+            System.out.println("小黑不喜欢吃fish");
         }
     }
 
