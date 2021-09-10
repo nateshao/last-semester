@@ -11,10 +11,6 @@ package com.nateshao.demo03;
  */
 public class Master {
 
-//    public void feed(String name, String food) {
-////        System.out.println(name + "投喂" + food + "小白和小黑");
-//    }
-
     private String name;
     private Food food;
     private Dog dog;
@@ -22,9 +18,10 @@ public class Master {
     public static void main(String[] args) {
         Bone bone = new Bone();
         Dog dog = new Dog();
-
         Master master = new Master();
         master.feed("苏大爷", bone, dog);
+
+
 
     }
 
