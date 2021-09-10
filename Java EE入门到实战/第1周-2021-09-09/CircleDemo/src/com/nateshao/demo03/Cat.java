@@ -19,4 +19,9 @@ public class Cat extends Animal{
             System.out.println("小黑不喜欢吃bone");
         }
     }
+
+    @Override
+    public String feed() {
+        return "小猫";
+    }
 }

@@ -17,18 +17,20 @@ public class Master {
 
     private String name;
     private Food food;
+    private Dog dog;
 
     public static void main(String[] args) {
         Bone bone = new Bone();
+        Dog dog = new Dog();
+
         Master master = new Master();
-        master.feed("苏大爷", bone);
+        master.feed("苏大爷", bone, dog);
 
     }
 
-    public void feed(String name, Food food) {
+    public void feed(String name, Food food, Animal animal) {
         if (food instanceof Bone)
-            System.out.println(name + "投喂" + food.feed() + "给小白和小黑");
-//        food.feed();
+            System.out.println(name + "投喂" + food.feed() + animal.feed());
     }
 }
 

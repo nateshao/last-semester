@@ -9,9 +9,7 @@ package com.nateshao.demo03;
  * @Gitee https://gitee.com/nateshao
  * Description: 动物类
  */
-public class Animal {
+public abstract class Animal {
 
-    public void feed(){
-        System.out.println("");
-    }
+    public abstract String feed();
 }
