@@ -1,0 +1,15 @@
+h2颜色：#003580
+
+影视简介内容<p id='text'>：字体大小14px，颜色#000033
+
+<a href="#" class="font1">慈文传媒集团</a>颜色#f00
+
+<span class="font2">林玉芬、高林豹、梁胜权联合执导，霍建华、赵丽颖</span>颜色：#1f87cc
+
+<span class="font3">蒋欣、杨烁</span>、<span class="font5">湖南卫视</span>颜色：#faa53b
+
+<span class="font4">张丹峰、李纯、马可、鲍天琦、安悦溪、徐海乔</span>颜色：#0d7114
+
+图像1：宽度100px、高度160px
+
+图像2、3宽度200px、高度130px

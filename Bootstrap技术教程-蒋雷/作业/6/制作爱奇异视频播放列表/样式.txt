@@ -1,0 +1,17 @@
+所有内容：外边距0、内边距0
+
+最大父容器：宽度1000px、外边距50px auto
+
+最大父容器下标题h3：字体大小18px、行高40px
+
+最大父容器下列表项li：显示方式inline-block、内边距10px、右外边距5px
+
+最大父容器下列表项下图像li img：边框圆角10px
+
+最大父容器下列表项下第一个li h4：字体大小16px、颜色#4d4d4d、行高30px
+
+最大父容器下列表项下第一个li p：颜色#640000、字体大小14px、行高20px
+
+最大父容器下列表项下第二个li p：字体大小12px、颜色blue、行高20px
+
+最大父容器下列表项下悬浮ul li:hover：边框颜色#dfdfdf、边框圆角10px、firefox浏览器私有属性-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1), 0 0 10px 0 rgba(0, 0, 0, 0.2)、chrome浏览器私有属性-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1), 0 0 10px 0 rgba(0, 0, 0, 0.2)、盒子阴影box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1), 0 0 10px 0 rgba(0, 0, 0, 0.2)、背景色#fff

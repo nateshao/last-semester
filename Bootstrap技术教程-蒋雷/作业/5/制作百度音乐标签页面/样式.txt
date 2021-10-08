@@ -1,0 +1,5 @@
+h2：字体大小18px、字体"楷体"
+
+段落：字体大小12px、字体"Times New Roman", "Times", "宋体"、行高20px
+
+段落的所有后代span：字体粗细bold、颜色#F00

@@ -1,0 +1,27 @@
+所有内容：内边距0、外边距0
+
+所有超链：无下划线
+
+header标签：高度90px、宽度100%、背景rgba(0, 0, 0, .6)
+
+header标签下div标签：宽度1180px、高度90px、外边距0 auto、文字对齐center
+
+header标签下div标签下的超链接, nav标签, nav标签下的li, header标签下div标签下的div标签：高度90p、显示方式inline-block、垂直对齐top
+
+header标签下div标签下的nav标签：外边距0 48px
+
+header标签下div标签下的nav标签下的所有li：行高90px、宽度90px
+
+header标签下div标签下的nav标签下的所有li下的所有a：显示方式block、文字对齐center、字体大小16px、颜色#fff
+
+header标签下div标签下的nav标签下的所有li下的所有a:hover：颜色blue
+
+header标签下div标签下的div标签下的a：显示方式inline-block、字体大小16px、文字对齐center、顶部外边距25px、圆角边框35px
+
+header标签下div标签下的div标签下的第一个a：宽度93px、高度38px、行高38px、颜色#fad65c、边框1px #fad65c solid
+
+header标签下div标签下的div标签下的第一个a:hover：颜色:#986b0d、背景色#fad65c
+
+header标签下div标签下的div标签下的最后一个a：宽度140px、高度40px、字体粗细700、行高40px、背景色#fad65c、颜色#986b0d
+
+header标签下div标签下的div标签下的最后一个a:hover：背景色#fddc6c

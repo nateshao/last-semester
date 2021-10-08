@@ -1,0 +1,11 @@
+所有div：外边框10px、内边框5px
+
+最大父容器：边框1px #000 solid
+
+第一层：边框1px #F00 dashed
+
+第二层：边框1px #00F dashed
+
+第三层：边框1px #060 dashed
+
+第四层：边框1px #666 dashed、字体大小12px、行高23px

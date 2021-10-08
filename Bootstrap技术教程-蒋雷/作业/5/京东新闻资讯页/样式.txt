@@ -1,0 +1,12 @@
+body：内边距10px
+
+h1：字体大小22px、颜色#333、字体类型：arial, "宋体"、文本对齐方式center、文字阴影rgba(0,0,0,0.5) 2px 2px 2px
+
+h2：字体大小18px、颜色#999、文本对齐方式center、行高30px
+
+段落：文字缩进2em、颜色#333、行高1.8、字体大小14px、字体类型arial, "宋体"
+
+<p class="time">2015年05月05日 <span class="second">17:47</span></p>：time字体大小12px、文字对齐center、行高30px
+                                                                                                                               second颜色#ff0000
+
+<p class="p-img"><img src="img/book.jpg" alt="图书"/></p>：文字对齐center

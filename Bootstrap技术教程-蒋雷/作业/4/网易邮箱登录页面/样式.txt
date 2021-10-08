@@ -1,0 +1,13 @@
+段落：字体大小16px
+
+header部分的超链接：字体大小14px、颜色#f10158
+
+text类型的input：背景#FFFFED、字体大小18px
+
+pass类型的input：背景#FFFFED、字体大小18px
+
+section的第一个子img：宽度200px、高度150px
+
+section的所有后代ul、ul的所有后代li：颜色#0099ff
+
+footer部分的所有超链接：字体大小14px、颜色#9873f2
