@@ -1,26 +1,46 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta name="viewport" content="width=device-width,initial-scale=1" charset="utf-8" />
-		<title>等宽多行示例</title>
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+
+<head>
+	<meta name="viewport" content="width=device-width,initial-scale=1" charset="utf-8" />
+	<title>京东快速购物导航</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+
+	<script src="js/popper.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
+	<style>
+		.F{
+			scroll-snap-align: scroll;
+		}
+	</style>
+</head>
+
+<body>
+	<div>
+		<a href=""><img src="image/img1.png" alt=""></a>
+	</div>
+	<div>
+		<a href=""><img src="image/img2.png" alt=""></a>
+	</div>
+	<div>
+		<a href=""><img src="image/img3.png" alt=""></a>
+	</div>
+	<div>
+		<a href=""><img src="image/img4.png" alt=""></a>
+	</div>
+	<div>
+		<a href=""><img src="image/img5.png" alt=""></a>
+	</div>
+
+	<div class="F">
+		<a href="image/img1.png">F1</a>
+		<a href="image/img2.png">F2</a>
+		<a href="image/img3.png">F3</a>
+		<a href="image/img4.png">F4</a>
+		<a href="image/img5.png">F5</a>
 		
-		<script src="js/popper.js"></script>
-		<script src="js/jquery-3.4.1.min.js"></script>
-		<script src="js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
-	</head>
-	<body>
-		<div class="container">
-			<div class="row">
-				<div class="col border">col</div>
-				<div class="col-8 border">col-8</div>
-				<div class="col border">col</div>
-			</div>
-			<div class="row">
-				<div class="col-5 border">col-5</div>
-				<div class="col border">col</div>
-				<div class="col border">col</div>
-			</div>
-		</div>		
-	</body>
+	</div>
+</body>
+
 </html>
